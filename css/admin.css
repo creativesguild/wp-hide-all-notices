@@ -1,0 +1,3 @@
+.notice.is-dismissible, .vc_license-activation-notice, .itsec-notice, .update-nag, .updated{
+    display: none;
+}
